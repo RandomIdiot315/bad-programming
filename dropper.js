@@ -1,4 +1,9 @@
 //by Jaden(yab0ikai)
+//NOT MEANT TO BE USED ALONE
+//NOT MEANT TO BE USED ALONE
+//NOT MEANT TO BE USED ALONE
+//NOT MEANT TO BE USED ALONE
+//NOT MEANT TO BE USED ALONE
 
 
 function dropElements(arr, func) {
