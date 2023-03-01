@@ -1,7 +1,7 @@
 //by Jaden(yab0ikai)
 
 
-function binaryAgent(str) {
+function ttb(str) {
    
   let arr = str.split(" ")
   let hexValues = []
