@@ -1,3 +1,6 @@
+//by Jaden(yab0ikai)
+
+
 function binaryAgent(str) {
    
   let arr = str.split(" ")
