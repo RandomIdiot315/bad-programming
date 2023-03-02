@@ -15,5 +15,3 @@ var result =  sum / x;
 
 return result;
 }
-
-export average from 'averager.js';
