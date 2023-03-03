@@ -2,7 +2,7 @@
 //MiscLib v1.0
 
 
-function average(arr) { //anonymous function test
+function average(arr) {
 
 let sum = 0
 let x = arr.length
